@@ -1,0 +1,12 @@
+to run flask
+you need to copy link of flask
+
+C:\Users\BUENDOVINO\AppData\Roaming\Python\Python311\Scripts find flask application and copy it to:::
+
+C:\Program Files\Python311\Scripts\
+
+to run it go to your py file and type this:
+
+C:\Users\BUENDOVINO\Desktop\postgreSQL Flask> python app.py
+
+C:\Users\BUENDOVINO\Desktop\postgreSQL Flask> flask run
